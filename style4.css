@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -60,7 +61,7 @@ hr{
 
 .heading{
     text-align: center;
-    padding-top: 40px;
+    padding-top: 50px;
     color: #27374D;
     text-shadow: 2px 1px 2px rgb(0, 0, 0);
     font-size: 40px;
@@ -69,7 +70,7 @@ hr{
 
 i{
     font-size: 30px;
-    padding-top: 8%;
+    padding-top: 10%;
     padding-left: 7%;
     color: #0d1525;
 
@@ -96,11 +97,11 @@ i{
 .box2{
     width: 40%;
     background-color: #557186;
-    margin-top: 2%;
+    margin-top: 3%;
     height:100%;
     box-shadow: 10px 5px 30px 2px rgb(46, 44, 44);
     background-image: linear-gradient(to left,  #3A6D8C , #6A9AB0);
-    margin-bottom: 2.3%;
+    margin-bottom: 3.6%;
 }
 
 .heading2{
@@ -113,7 +114,7 @@ i{
 }
 
 .name{
-    width: 38%;
+    width: 39%;
     height: 35px;
     border-radius: 20px;
     border: 1px solid;
